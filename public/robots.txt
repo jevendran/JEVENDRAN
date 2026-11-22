@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jevendran.github.io/PORTFOLIO/sitemap.xml
+Sitemap: https://jevendran.github.io/JEVENDRAN/sitemap.xml
